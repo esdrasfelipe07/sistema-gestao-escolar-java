@@ -11,12 +11,12 @@ Projeto desenvolvido em **Java** como atividade da disciplina de **Programação
 - **Coleções Java (List)** para armazenamento em memória
 - **Diagrama UML** (Mermaid)
 
-# 📜 Funcionalidades
+# Funcionalidades
 - **Cadastro de alunos, professores e disciplinas**
 - **Criação de turmas e matrículas**
 - **Lançamento de notas**
 - **Exibição de informações detalhadas de cada entidade**
 - Tratamento de exceções para operações de CRUD
 
-# 📊 Diagrama UML
+# Diagrama UML
 O diagrama UML do projeto está disponível em [`docs/diagrama.md`](docs/diagrama.md).
